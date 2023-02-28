@@ -164,3 +164,6 @@ Git cherry-pick y reset
 [![6.png](https://i.postimg.cc/W4XrbQ3V/6.png)](https://postimg.cc/3y0Wtfmf)
 
 [![7.png](https://i.postimg.cc/pV904BGr/7.png)](https://postimg.cc/hhBb7VqR)
+
+
+[url=https://postimg.cc/kRKmnjBP][img]https://i.postimg.cc/kRKmnjBP/Imagen1.png[/img][/url]

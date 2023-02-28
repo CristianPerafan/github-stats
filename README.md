@@ -153,3 +153,14 @@ releasing work publicly on the Web.
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
   match the GitHub UI
+  
+Git cherry-pick y reset
+[![3.png](https://i.postimg.cc/d3S4khVq/3.png)](https://postimg.cc/jnPzBdf9)
+
+[![4.png](https://i.postimg.cc/tT4339f7/4.png)](https://postimg.cc/nsN9Zfnt)
+
+[![5.png](https://i.postimg.cc/FRCjG25p/5.png)](https://postimg.cc/tZPZ4vgn)
+
+[![6.png](https://i.postimg.cc/W4XrbQ3V/6.png)](https://postimg.cc/3y0Wtfmf)
+
+[![7.png](https://i.postimg.cc/pV904BGr/7.png)](https://postimg.cc/hhBb7VqR)
